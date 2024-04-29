@@ -25,7 +25,3 @@ This is a simple Python program to solve Sudoku puzzles using a backtracking alg
 
 3. **The program will output the solved Sudoku puzzle.**
 
-## Example
-
-Example Sudoku board (0 represents empty cells):
-
