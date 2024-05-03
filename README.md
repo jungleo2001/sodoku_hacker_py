@@ -13,7 +13,7 @@ This is a simple Python program to solve Sudoku puzzles using a backtracking alg
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/yourusername/sudoku_solver.git
+    git clone https://github.com/jungleo2001/sodoku_hacker_py.git
     ```
 
 2. **Run the Python script:**
